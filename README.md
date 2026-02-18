@@ -2,7 +2,7 @@
 
 I'm Samuel, a CS student focused on Software Engineering and Artificial Intelligence. Currently seeking a Software Engineering internship in São Paulo. 
 
-I build practical, scalable solutidons and explore how AI and automation can drive real business impact.
+I build practical, scalable solutions and explore how AI and automation can drive real business impact.
 
 ### These days i'm focused on:
 
@@ -14,7 +14,7 @@ I build practical, scalable solutidons and explore how AI and automation can dri
 
 ### Some stuff I built:
  - [first_oauth](https://github.com/nickezinho/first_oauth) - A simple API to practice NoSQL
- - [simple_api](https://github.com/nickezinho/simple_fastapia) - Easy login page to lear how OAuth works
+ - [simple_api](https://github.com/nickezinho/simple_fastapia) - Easy login page to learn how OAuth works
 
 ##
 
