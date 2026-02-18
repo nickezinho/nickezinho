@@ -13,8 +13,8 @@ I build practical, scalable solutions and explore how AI and automation can driv
 ##
 
 ### Some stuff I built:
- - [first_oauth](https://github.com/nickezinho/first_oauth) - A simple API to practice NoSQL
- - [simple_api](https://github.com/nickezinho/simple_fastapia) - Easy login page to learn how OAuth works
+ - [first_oauth](https://github.com/nickezinho/first_oauth) - Easy login page to learn how OAuth works 
+ - [simple_api](https://github.com/nickezinho/simple_fastapia) - A simple API to practice NoSQL
 
 ##
 
