@@ -13,9 +13,7 @@ I build practical, scalable solutions and explore how AI and automation can driv
 ##
 
 ### Some stuff I built:
- - [first_oauth](https://github.com/nickezinho/first_oauth) - Easy login page to learn how OAuth works 
- - [simple_api](https://github.com/nickezinho/simple_fastapi) - A simple API to practice SQLite
- - [apirest](https://github.com/nickezinho/simple-api-rest) - My first API rest using Django
+ - [triage-AI](https://github.com/nickezinho/triage-AI) - medical triage using AI and Google Maps
 
 ##
 
