@@ -14,6 +14,7 @@ I build practical, scalable solutions and explore how AI and automation can driv
 
 ### Some stuff I built:
  - [triage-AI](https://github.com/nickezinho/triage-AI) - medical triage using AI and Google Maps
+ - [company-goals](https://github.com/nickezinho/company-manager) - track goals and data in your company
 
 ##
 
