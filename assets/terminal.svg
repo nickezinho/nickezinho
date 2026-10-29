@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430" role="img" aria-label="Terminal: whoami, stack, projects, fun facts">
+<defs>
+  <linearGradient id="tbg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#111733"/>
+  </linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#06b6d4"/>
+  </linearGradient>
+</defs>
+<style>
+  .show { opacity:0; animation:sh .01s linear forwards; }
+  @keyframes sh { to { opacity:1 } }
+  .cur { animation:sh .01s linear forwards, bl 1s steps(1) infinite; }
+  @keyframes bl { 50% { opacity:0 } }
+  @media (prefers-reduced-motion: reduce) { .show,.cur { animation:none; opacity:1 } }
+</style>
+<rect x="1" y="1" width="898" height="428" rx="14" fill="url(#tbg)" stroke="url(#edge)" stroke-opacity=".7" stroke-width="1.5"/>
+<path d="M1 15 a14 14 0 0 1 14 -14 h868 a14 14 0 0 1 14 14 v27 h-896 z" fill="#161b2e"/>
+<circle cx="26" cy="22" r="6.5" fill="#ff5f57"/><circle cx="48" cy="22" r="6.5" fill="#febc2e"/><circle cx="70" cy="22" r="6.5" fill="#28c840"/>
+<text x="450.0" y="27" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" fill="#8b93b8">samuel@sao-paulo: ~ — zsh</text>
+<text x="32" y="92" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="16" class="show" style="animation-delay:0.60s"><tspan fill="#a78bfa">samuel</tspan><tspan fill="#8b93b8">@</tspan><tspan fill="#67e8f9">sp</tspan><tspan fill="#8b93b8">:~$</tspan></text>
+  <clipPath id="c1"><rect x="156.8" y="76" height="24.0" width="0">
+    <animate attributeName="width" values="0.0;9.6;19.2;28.8;38.4;48.0;57.6" calcMode="discrete" begin="0.85s" dur="0.36s" fill="freeze"/>
+  </rect></clipPath>
+  <text x="156.8" y="92" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="16" fill="#e6edf3" textLength="57.6"
+        lengthAdjust="spacingAndGlyphs" clip-path="url(#c1)" xml:space="preserve" >whoami</text><text x="32" y="119" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="16" fill="#c9d1d9" class="show" style="animation-delay:1.46s" xml:space="preserve"><tspan fill="#4ade80">→</tspan> Samuel · CS student · Software Engineering &amp; AI</text><text x="32" y="146" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="16" fill="#c9d1d9" class="show" style="animation-delay:1.64s" xml:space="preserve"><tspan fill="#4ade80">→</tspan> building practical stuff where AI meets real business</text><text x="32" y="179" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="16" class="show" style="animation-delay:1.82s"><tspan fill="#a78bfa">samuel</tspan><tspan fill="#8b93b8">@</tspan><tspan fill="#67e8f9">sp</tspan><tspan fill="#8b93b8">:~$</tspan></text>
+  <clipPath id="c2"><rect x="156.8" y="163" height="24.0" width="0">
+    <animate attributeName="width" values="0.0;9.6;19.2;28.8;38.4;48.0;57.6;67.2;76.8;86.4;96.0;105.6;115.2;124.8" calcMode="discrete" begin="2.07s" dur="0.78s" fill="freeze"/>
+  </rect></clipPath>
+  <text x="156.8" y="179" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="16" fill="#e6edf3" textLength="124.8"
+        lengthAdjust="spacingAndGlyphs" clip-path="url(#c2)" xml:space="preserve" >cat stack.txt</text><text x="32" y="206" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="16" fill="#c9d1d9" class="show" style="animation-delay:3.10s" xml:space="preserve"><tspan fill="#ffd43b">python</tspan>  <tspan fill="#f89820">java</tspan>  <tspan fill="#f7df1e">javascript</tspan>  <tspan fill="#67e8f9">apis</tspan>  <tspan fill="#f472b6">automation</tspan></text><text x="32" y="239" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="16" class="show" style="animation-delay:3.28s"><tspan fill="#a78bfa">samuel</tspan><tspan fill="#8b93b8">@</tspan><tspan fill="#67e8f9">sp</tspan><tspan fill="#8b93b8">:~$</tspan></text>
+  <clipPath id="c3"><rect x="156.8" y="223" height="24.0" width="0">
+    <animate attributeName="width" values="0.0;9.6;19.2;28.8;38.4;48.0;57.6;67.2;76.8;86.4;96.0;105.6;115.2;124.8" calcMode="discrete" begin="3.53s" dur="0.78s" fill="freeze"/>
+  </rect></clipPath>
+  <text x="156.8" y="239" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="16" fill="#e6edf3" textLength="124.8"
+        lengthAdjust="spacingAndGlyphs" clip-path="url(#c3)" xml:space="preserve" >ls ./projects</text><text x="32" y="266" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="16" fill="#c9d1d9" class="show" style="animation-delay:4.56s" xml:space="preserve"><tspan fill="#60a5fa">triage-AI/</tspan>   <tspan fill="#60a5fa">company-goals/</tspan>   <tspan fill="#60a5fa">whatsapp-automation/</tspan></text><text x="32" y="299" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="16" class="show" style="animation-delay:4.74s"><tspan fill="#a78bfa">samuel</tspan><tspan fill="#8b93b8">@</tspan><tspan fill="#67e8f9">sp</tspan><tspan fill="#8b93b8">:~$</tspan></text>
+  <clipPath id="c4"><rect x="156.8" y="283" height="24.0" width="0">
+    <animate attributeName="width" values="0.0;9.6;19.2;28.8;38.4;48.0;57.6;67.2;76.8;86.4;96.0;105.6;115.2;124.8;134.4;144.0;153.6;163.2" calcMode="discrete" begin="4.989999999999999s" dur="1.02s" fill="freeze"/>
+  </rect></clipPath>
+  <text x="156.8" y="299" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="16" fill="#e6edf3" textLength="163.2"
+        lengthAdjust="spacingAndGlyphs" clip-path="url(#c4)" xml:space="preserve" >cat fun_facts.txt</text><text x="32" y="326" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="16" fill="#c9d1d9" class="show" style="animation-delay:6.26s" xml:space="preserve">🎧 radiohead 🔛🔝    📺 hunter x hunter    🏀 basketball</text><text x="32" y="359" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="16" class="show" style="animation-delay:6.44s"><tspan fill="#a78bfa">samuel</tspan><tspan fill="#8b93b8">@</tspan><tspan fill="#67e8f9">sp</tspan><tspan fill="#8b93b8">:~$</tspan></text><rect x="156.8" y="345" width="9.6" height="18" fill="#67e8f9" class="show cur" style="animation-delay:6.44s, 6.44s"/>
+</svg>

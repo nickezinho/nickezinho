@@ -1,40 +1,80 @@
-## Hey there <img src="https://slackmojis.com/emojis/5276-pig-hello-sitting/download" width="30" />
+<div align="center">
 
-I'm Samuel, a CS student focused on Software Engineering and Artificial Intelligence. Currently seeking a Software Engineering internship in São Paulo. 
+<img src="./assets/header.svg" width="100%" alt="Samuel — Software Engineering & AI" />
 
-I build practical, scalable solutions and explore how AI and automation can drive real business impact.
+<br/>
 
-### These days i'm focused on:
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A0F24?style=for-the-badge&logo=linkedin&logoColor=67e8f9" /></a>
+<a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/Email-0A0F24?style=for-the-badge&logo=gmail&logoColor=a78bfa" /></a>
+<img src="https://komarev.com/ghpvc/?username=nickezinho&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 
- - Python, Java, Javascript
- - Useful APIs
- - Small projects for learning
+<br/><br/>
 
-##
+<img src="./assets/terminal.svg" width="90%" alt="terminal: whoami" />
 
-### Some stuff I built:
- - [triage-AI](https://github.com/nickezinho/triage-AI) - medical triage using AI and Google Maps
- - [company-goals](https://github.com/nickezinho/company-manager) - track goals and data in your company
- - [whatsapp-automation](https://github.com/nickezinho/whatsapp-hr-automation) - send automated messages on whatsapp
+</div>
 
-##
+<br/>
 
-### Fun facts:
- - Radiohead 🔛🔝
- - HxH is my favorite anime
- - Hobbies: Basketball, Studies  
+### <img src="https://slackmojis.com/emojis/5276-pig-hello-sitting/download" width="26" /> &nbsp;hey, i'm samuel
 
-<!--
-**nickezinho/nickezinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student focused on **Software Engineering** and **Artificial Intelligence** — currently looking for a **SWE internship in São Paulo**.
+I like building practical, scalable stuff and figuring out where AI and automation actually move the needle for a business.
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,fastapi,git,github,vscode,linux&theme=dark" />
+</p>
+
+<br/>
+
+### 🛠️ stuff i built
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**[🩺 triage-AI](https://github.com/nickezinho/triage-AI)**
+<br/><sub>Medical triage powered by AI + Google Maps to point patients to the right place.</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**[📈 company-goals](https://github.com/nickezinho/company-manager)**
+<br/><sub>Track goals and data across your company in one place.</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**[💬 whatsapp-automation](https://github.com/nickezinho/whatsapp-hr-automation)**
+<br/><sub>Automated WhatsApp messages for HR workflows.</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 📊 numbers
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nickezinho&show_icons=true&hide_border=true&bg_color=0b0f24&title_color=a78bfa&icon_color=67e8f9&text_color=c9d1ff&ring_color=7c3aed" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickezinho&layout=compact&hide_border=true&bg_color=0b0f24&title_color=a78bfa&text_color=c9d1ff" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- gerado pela action em .github/workflows/snake.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nickezinho/nickezinho/output/snake-dark.svg" />
+  <img alt="cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/nickezinho/nickezinho/output/snake.svg" />
+</picture>
+
+<sub><i>"everything in its right place"</i> 🔛🔝 &nbsp;·&nbsp; HxH is peak fiction &nbsp;·&nbsp; 🏀</sub>
+
+</div>
