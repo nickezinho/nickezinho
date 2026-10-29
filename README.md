@@ -4,8 +4,8 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A0F24?style=for-the-badge&logo=linkedin&logoColor=67e8f9" /></a>
-<a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/Email-0A0F24?style=for-the-badge&logo=gmail&logoColor=a78bfa" /></a>
+<a href="https://www.linkedin.com/in/samuel-lima-1691a0324"><img src="https://img.shields.io/badge/LinkedIn-0A0F24?style=for-the-badge&logo=linkedin&logoColor=67e8f9" /></a>
+<a href="mailto:samuel.deoima@gmail.com"><img src="https://img.shields.io/badge/Email-0A0F24?style=for-the-badge&logo=gmail&logoColor=a78bfa" /></a>
 <img src="https://komarev.com/ghpvc/?username=nickezinho&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 
 <br/><br/>
