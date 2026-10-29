@@ -61,8 +61,8 @@ I like building practical, scalable stuff and figuring out where AI and automati
 ### 📊 numbers
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nickezinho&show_icons=true&hide_border=true&bg_color=0b0f24&title_color=a78bfa&icon_color=67e8f9&text_color=c9d1ff&ring_color=7c3aed" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickezinho&layout=compact&hide_border=true&bg_color=0b0f24&title_color=a78bfa&text_color=c9d1ff" />
+  <!-- gerado pela action em .github/workflows/stats.yml -->
+  <img src="./assets/stats.svg" width="90%" alt="GitHub stats" />
 </div>
 
 <br/>

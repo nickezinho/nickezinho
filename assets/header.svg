@@ -81,7 +81,7 @@
 <g class="in" style="animation-delay:.5s">
   <rect x="480" y="76" width="4" height="16" rx="1.5" class="mini" style="animation-duration:0.60s;animation-delay:-0.14s"/><rect x="486" y="76" width="4" height="16" rx="1.5" class="mini" style="animation-duration:0.69s;animation-delay:-0.75s"/><rect x="492" y="76" width="4" height="16" rx="1.5" class="mini" style="animation-duration:0.54s;animation-delay:-0.88s"/><rect x="498" y="76" width="4" height="16" rx="1.5" class="mini" style="animation-duration:0.57s;animation-delay:-0.67s"/>
   <text x="512" y="91" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" fill="#4ade80" letter-spacing="3">NOW PLAYING</text>
-  <text x="480" y="150" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="40" font-weight="800" fill="#fff">Software Engineer</text>
+  <text x="480" y="150" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="36" font-weight="800" fill="#fff" textLength="320" lengthAdjust="spacingAndGlyphs">Software Engineer</text>
   <text x="480" y="184" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="20" fill="#c4b5fd">(Internship Edition)</text>
   <text x="480" y="222" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#e2e8ff">Samuel <tspan fill="#8b93b8">·  OK Computer Science  ·  São Paulo</tspan></text>
 </g>
@@ -97,13 +97,13 @@
     <!-- shuffle -->
     <path d="M512 336 h8 l14 18 h8 M512 354 h8 l14 -18 h8 M538 332 l4 4 -4 4 M538 350 l4 4 -4 4" stroke="#4ade80"/>
     <!-- prev -->
-    <path d="M582 335 v20" /><path d="M600 335 l-14 10 14 10 z" fill="#c9d1ff"/>
+    <path d="M572 335 v20" /><path d="M590 335 l-14 10 14 10 z" fill="#c9d1ff"/>
   </g>
   <circle cx="625" cy="345" r="24" fill="#fff"/>
   <g fill="#0b1026"><rect x="617" y="335" width="5" height="20" rx="1.5"/><rect x="628" y="335" width="5" height="20" rx="1.5"/></g>
   <g fill="none" stroke="#c9d1ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
     <!-- next -->
-    <path d="M668 335 v20"/><path d="M650 335 l14 10 -14 10 z" fill="#c9d1ff"/>
+    <path d="M678 335 v20"/><path d="M660 335 l14 10 -14 10 z" fill="#c9d1ff"/>
     <!-- repeat -->
     <path d="M708 343 v-4 a4 4 0 0 1 4 -4 h22 M730 331 l4 4 -4 4 M738 347 v4 a4 4 0 0 1 -4 4 h-22 M716 359 l-4 -4 4 -4"/>
   </g>
